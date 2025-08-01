@@ -1,11 +1,8 @@
----
-title: "CV"
-permalink: /cv/
----
+# Curriculum Vitae
 
-You can download my full CV [here](../assets/Sreeja_Academic_CV.pdf).
+You can [download my CV](assets/Sreeja_Academic_CV.pdf).
 
-### Academic Timeline
+## Academic Timeline
 - **Post-Doctoral Fellow**, Lehigh University (2022–Present)
 - **Post-Doctoral Fellow**, IIT Bombay (2020–2021)
 - **Ph.D.**, Raman Research Institute (2013–2020)

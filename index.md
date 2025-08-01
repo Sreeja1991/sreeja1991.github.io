@@ -1,11 +1,11 @@
----
-layout: splash
-title: "Sreeja Sasidharan"
-permalink: /
----
+# Welcome
 
-Welcome to my academic homepage. I am a Post-Doctoral Fellow in the Department of Physics at Lehigh University.
+**Sreeja Sasidharan**  
+Post-Doctoral Fellow, Department of Physics, Lehigh University
 
-You can navigate through my CV, research, publications, and teaching using the menu above.
+Welcome to my academic homepage. You can navigate using the links below.
 
-![Profile Picture](assets/img/profile.jpg) <!-- Replace this with your photo -->
+- [CV](cv.md)
+- [Research](research.md)
+- [Publications](publications.md)
+- [Teaching](teaching.md)
