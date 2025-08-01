@@ -14,9 +14,6 @@ plugins:
 header_pages:
   - index.md
   - _pages/cv.md
-
-exclude:
-  - Gemfile
-  - Gemfile.lock
-  - node_modules
-  - vendor
+  - _pages/research.md
+  - _pages/publications.md
+  - _pages/teaching.md
