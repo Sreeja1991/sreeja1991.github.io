@@ -1,5 +1,8 @@
 # Welcome
 
+<img src="assets/images/profile.jpg" alt="Sreeja's Profile Picture" style="width:150px; border-radius:50%;">
+
+
 **Sreeja Sasidharan**  
 Post-Doctoral Fellow, Department of Physics, Lehigh University
 
