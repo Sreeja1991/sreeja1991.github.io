@@ -6,13 +6,16 @@
 **Sreeja Sasidharan**  
 Post-Doctoral Fellow, Department of Physics, Lehigh University
 
-Welcome to my academic homepage. I am an experimental biophysics. I use microscopy, microfluidics and lipid biochemistry to understand the intricate nature of cell membranes. Lipids are fascinating molecules, which self assemble to form protective external membrane of the living cells. During my Ph.D. at Raman Research Instiute under the guidance of V.A. Raghunathan, I studied how lipid interact with different biomolecules using mainly x-ray scattering experiments. That where I fell in love lipid molecules. I was super curious about how nature design this molecule. It form a protection cellular interior. Just basic physics is enough heal minute pores formes in bilayer. It is resistant enough for logitudinal streching acting as solid and the same time it is fluid enough have random movement or "diffusion" at physiological temperature. There is a lot we know about them, a lot need to be explored more. 
-Then you can ask me? Why do we need to study about them in so details. Why not a simple understanding of their nature is enough?
-This question bioled down a REALLY big fascinating question. "HOW CELL WORKS?" 
-A cell is the basic building of any life form. It has birth -> life -> death cycle. Even it can make may important decision itself about how to should behave like we do.
-How muchever tiny they are, they hide the secret how life works.
-Fascianting is it. That is where I decide I want to work on Biophysics. 
-To know more about me and my work you can use the following links
+
+Welcome to my academic homepage. I am an experimental biophysicist. I use microscopy, microfluidics, and lipid biochemistry to understand the intricate nature of cell membranes. Lipids are fascinating molecules that self-assemble to form the protective external membrane of living cells. During my Ph.D. at Raman Research Institute under the guidance of V.A. Raghunathan, I studied how lipids interact with different biomolecules using mainly X-ray scattering experiments. That is where I fell in love with lipid molecules. I was super curious about how nature designed this molecule. It forms a protective cellular interior. Just basic physics is enough to understand how lipid membranes heal minute pores within them. It is resistant enough for longitudinal stretching, acting as a solid, and at the same time, it is fluid enough to have random movement or "diffusion" at physiological temperature. There is a lot we know about them, but much remains to be explored. 
+Then, why do we need to study them in such detail? Why not a simple understanding of their nature is enough?
+This question boiled down to a vast, fascinating question. "HOW DOES A CELL WORK?" 
+A cell is the basic building block of all living organisms. It has a birth -> life -> death cycle. Even a single cell can make many important decisions about its behavior and responses, just as we do when deciding how to respond to a situation.
+However tiny they are, they hide the secret of how life works.
+Fascinating, isn't it?. That is why I decided to work on Biophysics. To know more about me and my work, you can use the following links.
+
+
+You can navigate using the links below.
 
 
 - [CV](cv.md)
