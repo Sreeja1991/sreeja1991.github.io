@@ -1,6 +1,6 @@
 # Welcome
 
-<img src="assets/images/profile.jpg" alt="Sreeja's Profile Picture" style="width:150px; border-radius:50%;">
+<img src="assets/images/sreeja.jpg" alt="Sreeja's Profile Picture" style="width:150px; border-radius:50%;">
 
 
 **Sreeja Sasidharan**  
