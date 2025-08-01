@@ -1,0 +1,22 @@
+
+title: "Sreeja Sasidharan"
+email: srs621@lehigh.edu
+description: >-
+  Personal academic website of Sreeja Sasidharan
+
+theme: minima
+markdown: kramdown
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Navigation menu links
+header_pages:
+  - index.md
+  - _pages/cv.md
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
