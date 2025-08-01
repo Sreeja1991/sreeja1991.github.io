@@ -4,16 +4,46 @@ email: srs621@lehigh.edu
 description: >-
   Personal academic website of Sreeja Sasidharan
 
-theme: minima
+theme: "minimal-mistakes-jekyll"
+minimal_mistakes_skin: "default"
 markdown: kramdown
+highlighter: rouge
+
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
+  - jekyll-include-cache
+
+include:
+  - _pages
+
+defaults:
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+  - scope:
+      path: "_publications"
+    values:
+      layout: single
+      author_profile: true
+  - scope:
+      path: "_teaching"
+    values:
+      layout: single
+      author_profile: true
 
 # Navigation menu links
-header_pages:
-  - index.md
-  - _pages/cv.md
-  - _pages/research.md
-  - _pages/publications.md
-  - _pages/teaching.md
+nav:
+  - title: "Home"
+    url: /
+  - title: "CV"
+    url: /cv/
+  - title: "Research"
+    url: /research/
+  - title: "Publications"
+    url: /publications/
+  - title: "Teaching"
+    url: /teaching/
